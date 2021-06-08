@@ -1,0 +1,13 @@
+.formularioRegistro {
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-top: 10%;
+}
+
+label {
+    margin-top: 20px;
+}
+
+th {
+    text-align: center;
+}
